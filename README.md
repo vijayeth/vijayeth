@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vijay a Solftware Engineer.
+# Hi there 👋, I'm Vijay.
 
 ## Summary
 
