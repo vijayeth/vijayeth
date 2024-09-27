@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm Vijay a Solftware Engineer.
 
-<!--
-**vijayeth/vijayeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
 
-Here are some ideas to get you started:
+Experienced Full Stack Engineer with a passion for blockchain and web development. Proven track record of building scalable and user-centric applications using Javascript, TypeScript, React, Node.js, and Solidity. Adept at leading teams and delivering high-quality software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Languages: Javascript, Python
+- Frontend Development: ReactJS, ExpressJS, Redux, Tailwind CSS, HTML5 & CSS3, ethers.js, wagmi
+- Blockchain: Ethereum, Solidity, Smart Contracts, NFTs, DeFi
+- Tools: MaterialUI, VsCode, Github, Vercel, Netlify, Jenkins, Docker
+- Services: UI/UX Designs, Cross-platform apps, Frontend optimizations
